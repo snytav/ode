@@ -6,7 +6,7 @@ import numpy as np
 f0 = 1
 inf_s = np.sqrt(np.finfo(np.float32).eps)
 learning_rate = 0.01
-training_steps = 5000
+training_steps = 10000
 batch_size = 100
 display_step = 500
 # Network Parameters
